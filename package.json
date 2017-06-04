@@ -1,0 +1,16 @@
+{
+  "name": "twitterBot",
+  "version": "1.0.0",
+  "description": "Nodejs Twitter Bot to like posts and users",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Micah Dunson",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
